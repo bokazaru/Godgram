@@ -1,0 +1,78 @@
+{
+  "config_version": 3,
+  "appearance": {
+    "theme": "default",
+    "custom_theme_path": "",
+    "use_system_font": false,
+    "custom_font": "",
+    "bubble_radius": 16,
+    "avatar_radius": 20,
+    "hide_stories": true,
+    "hide_tabbar": false,
+    "hide_camera_button": false,
+    "use_animated_background": false,
+    "animated_background_path": "",
+    "use_gradient_navigation": true,
+    "gradient_start_color": "#FF6B6B",
+    "gradient_end_color": "#4ECDC4"
+  },
+  "privacy": {
+    "hide_online_status": true,
+    "hide_last_seen": true,
+    "hide_typing": true,
+    "prevent_forwarding": false,
+    "hide_phone_number": true,
+    "hide_read_receipts": true,
+    "block_sponsored_messages": true,
+    "incognito_mode": false,
+    "app_lock_enabled": false,
+    "app_lock_type": "pin",
+    "app_lock_timeout": 0,
+    "stealth_exclude_list": []
+  },
+  "messaging": {
+    "copy_without_formatting": true,
+    "auto_translate": false,
+    "translation_provider": "google",
+    "default_target_language": "en",
+    "quick_replies": [],
+    "spoiler_type": "default",
+    "double_tap_action": "reply",
+    "long_press_action": "select",
+    "translation_exclude_list": []
+  },
+  "media": {
+    "disable_autoplay_gif": false,
+    "disable_autoplay_video": false,
+    "auto_save_to_gallery": true,
+    "image_quality": 90,
+    "video_quality": "high",
+    "upload_compression": true,
+    "auto_save_exclude_list": []
+  },
+  "experimental": {
+    "godspeed_cloud_sync": false,
+    "cloud_sync_server": "https://cloud.realgodspeed.com",
+    "voice_effects_enabled": false,
+    "voice_effect_type": "none",
+    "ai_assistant_enabled": false,
+    "ai_provider": "openai",
+    "smart_scheduling": false,
+    "advanced_admin_tools": false
+  },
+  "navigation": {
+    "bottom_navigation": true,
+    "gesture_controls": true,
+    "swipe_left_action": "back",
+    "swipe_right_action": "forward",
+    "swipe_up_action": "scroll_top",
+    "swipe_down_action": "scroll_bottom",
+    "custom_gestures": {}
+  },
+  "notifications": {
+    "hide_message_content": false,
+    "custom_notification_sounds": false,
+    "notification_sound_path": "",
+    "per_chat_notification_settings": false
+  }
+  }
